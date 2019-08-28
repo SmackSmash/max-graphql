@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "max-graphql",
   "version": "1.0.0",
   "description": "Just a repo while I follow the course at [https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB\\_](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)",
   "main": "app.js",
@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/SmackSmash/max-graphql#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
